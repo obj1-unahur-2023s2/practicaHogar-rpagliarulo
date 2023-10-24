@@ -1,0 +1,17 @@
+import habitaciones.* 
+import personas.*
+
+describe "group of tests" {
+
+	test "puntos de confort que aporta una habitación a una persona" {
+
+		assert.that(true)
+
+	}
+	
+	test "Configurar el porcentaje utilizado en el cálculo de los puntos de confort de las cocinas." {
+
+		assert.that(true)
+
+	}
+}
