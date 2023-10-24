@@ -12,9 +12,7 @@ class Habitacion {
 	
 }
 
-class UsoGeneral inherits Habitacion {
-
-}
+class UsoGeneral inherits Habitacion {}
 
 class Dormitorio inherits Habitacion {
 	const personasQueDuermenAca= []
